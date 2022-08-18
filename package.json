@@ -1,0 +1,24 @@
+{
+  "name": "tournament_tracker",
+  "version": "0.0.1",
+  "description": "Initial commit to stand architecture up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wspencermiller/tournament_tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wspencermiller/tournament_tracker/issues"
+  },
+  "homepage": "https://github.com/wspencermiller/tournament_tracker#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  }
+}
